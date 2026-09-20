@@ -44,7 +44,7 @@ en una expresión regular de prueba.
 
 ```
 pip install -r requirements.txt
-python main.py [archivo_expresiones.txt]
+python main.py
 ```
 
 Si no se indica un archivo, se usa `expresiones.txt` por defecto. Por cada
