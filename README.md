@@ -32,7 +32,7 @@ en una expresión regular de prueba.
   AFD y AFD minimizado**.
 - `thompson.py` — construcción recursiva del AFN a partir del AST.
 - `subconjuntos.py` — construcción de subconjuntos (AFN -> AFD).
-- `minimizacion.py` — minimización del AFD por particiones (Moore).
+- `minimizacion.py` — minimización del AFD con table filling algorithm
 - `graficador.py` — dibuja cualquier `Automata` (estado inicial, estados de
   aceptación con doble círculo, transiciones etiquetadas) usando
   `networkx`/`matplotlib`.
